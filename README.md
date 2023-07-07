@@ -33,12 +33,12 @@ Experience with enterprise Integrations with:
 * Juniper
 * Fortinet
 * Arista
-* F5
+* F5 Load Balancing (LTM/GTM)
 * vROPs & Log Insight
 * ServiceNow
-* Ansible
+* Ansible / Ansible Tower
 * Terraform
-* Salt Stack
+* SaltStack Config (std alone & vRA 8)
 * Puppet
 
 Virtual and Container platforms
@@ -56,6 +56,8 @@ CICD and Cloud deployments
 * DevOps
     * Providing over 
     * GIT with Jenkins and Jira as well as other Code repo solutions
+* DevSecOps
+    * Utilizing Ansible & SaltStack for automating security policy
 
 Configuration Management
 * Ansible
